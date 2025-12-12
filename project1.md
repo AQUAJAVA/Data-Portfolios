@@ -1,4 +1,3 @@
-
 # Student Performance SQL Analysis
 
 ***A segmentation-first, SQL-driven exploration of a synthetic student dataset*** 

@@ -1,2 +1,2 @@
 # Data-Portfolios
-Just a non-tech guy trying to learn about data, get into AI/ML from scratch, currently at 22, building projects and digital assets 
+Hi my name is Ayush, I recently graduated from Delhi University. While being in the final year of my college, I discovered this field of data analytics and was very intrigued. Given my commerce background I was already learning about commerce, business, accounting, management in general. I have just started out, I hope to excel in this field and help others make better decisions with the help of data, and ultimately understand the world better 

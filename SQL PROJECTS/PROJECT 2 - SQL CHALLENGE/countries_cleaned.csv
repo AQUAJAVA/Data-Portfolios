@@ -1,0 +1,258 @@
+country_name,country_code_2,country_code_3,region,sub_region,intermediate_region
+Afghanistan,af,afg,Asia,Southern Asia,Not Present
+  Albania,al,alb,Europe,Southern Europe,Not Present
+Albania,al,alb,Europe,Southern Europe,Not Present
+Algeria,dz,dza,Africa,Northern Africa,Not Present
+American Samoa,as,asm,Oceania,Polynesia,Not Present
+Andorra,ad,and,Europe,Southern Europe,Not Present
+Cyprus    ,cy,cyp,Asia,Western Asia,Not Present
+Angola,ao,ago,Africa,Subsaharan Africa,Middle Africa
+Anguilla,ai,aia,Americas,Latin America And The Caribbean,Caribbean
+Antarctica,aq,ata,Antartica,,Not Present
+Antigua And Barbuda,ag,atg,Americas,Latin America And The Caribbean,Caribbean
+Argentina,ar,arg,Americas,Latin America And The Caribbean,South America
+Armenia,am,arm,Asia,Western Asia,Not Present
+Aruba,aw,abw,Americas,Latin America And The Caribbean,Caribbean
+Australia,au,aus,Oceania,Australia And New Zealand,Not Present
+Austria,at,aut,Europe,Western Europe,Not Present
+Azerbaijan,az,aze,Asia,Western Asia,Not Present
+Bahamas,bs,bhs,Americas,Latin America And The Caribbean,Caribbean
+Bahrain,bh,bhr,Asia,Western Asia,Not Present
+Bangladesh,bd,bgd,Asia,Southern Asia,Not Present
+Barbados,bb,brb,Americas,Latin America And The Caribbean,Caribbean
+Belarus,by,blr,Europe,Eastern Europe,Not Present
+Belgium,be,bel,Europe,Western Europe,Not Present
+Belize,bz,blz,Americas,Latin America And The Caribbean,Central America
+Benin,bj,ben,Africa,Subsaharan Africa,Western Africa
+Bermuda,bm,bmu,Americas,Northern America,Not Present
+Bhutan,bt,btn,Asia,Southern Asia,Not Present
+Azerbaijan,az,aze,Asia,Western Asia,Not Present
+Bolivia,bo,bol,Americas,Latin America And The Caribbean,South America
+Bonaire Sint Eustatius And Saba,bq,bes,Americas,Latin America And The Caribbean,Caribbean
+Bosnia And Herzegovina,ba,bih,Europe,Southern Europe,Not Present
+Botswana,bw,bwa,Africa,Subsaharan Africa,Southern Africa
+Bouvet Island,bv,bvt,Americas,Latin America And The Caribbean,South America
+Brazil,br,bra,Americas,Latin America And The Caribbean,South America
+British Indian Ocean Territory,io,iot,Africa,Subsaharan Africa,Eastern Africa
+Brunei Darussalam,bn,brn,Asia,Southeastern Asia,Not Present
+Bulgaria,bg,bgr,Europe,Eastern Europe,Not Present
+Burkina Faso,bf,bfa,Africa,Subsaharan Africa,Western Africa
+Burundi,bi,bdi,Africa,Subsaharan Africa,Eastern Africa
+Cabo Verde,cv,cpv,Africa,Subsaharan Africa,Western Africa
+Cambodia,kh,khm,Asia,Southeastern Asia,Not Present
+  Cyprus,cy,cyp,Asia,Western Asia,Not Present
+Cameroon,cm,cmr,Africa,Subsaharan Africa,Middle Africa
+Canada,ca,can,Americas,Northern America,Not Present
+Cayman Islands,ky,cym,Americas,Latin America And The Caribbean,Caribbean
+Central African Republic,cf,caf,Africa,Subsaharan Africa,Middle Africa
+Chad,td,tcd,Africa,Subsaharan Africa,Middle Africa
+Chile,cl,chl,Americas,Latin America And The Caribbean,South America
+China ,cn,chn,Asia,Eastern Asia,Not Present
+Christmas Island,cx,cxr,Oceania,Australia And New Zealand,Not Present
+Cocos Islands,cc,cck,Oceania,Australia And New Zealand,Not Present
+Colombia,co,col,Americas,Latin America And The Caribbean,South America
+Comoros,km,com,Africa,Subsaharan Africa,Eastern Africa
+Republic Of Congo,cg,cog,Africa,Subsaharan Africa,Middle Africa
+Democratic Republic Of The Congo,cd,cod,Africa,Subsaharan Africa,Middle Africa
+Cook Islands,ck,cok,Oceania,Polynesia,Not Present
+Costa Rica,cr,cri,Americas,Latin America And The Caribbean,Central America
+Ivory Coast,ci,civ,Africa,Subsaharan Africa,Western Africa
+Croatia,hr,hrv,Europe,Southern Europe,Not Present
+Cuba,cu,cub,Americas,Latin America And The Caribbean,Caribbean
+Curacao,cw,cuw,Americas,Latin America And The Caribbean,Caribbean
+Cyprus,cy,cyp,Asia,Western Asia,Not Present
+Czechia,cz,cze,Europe,Eastern Europe,Not Present
+  Denmark,dk,dnk,Europe,Northern Europe,Not Present
+Djibouti,dj,dji,Africa,Subsaharan Africa,Eastern Africa
+Dominica,dm,dma,Americas,Latin America And The Caribbean,Caribbean
+Dominican Republic,do,dom,Americas,Latin America And The Caribbean,Caribbean
+Ecuador,ec,ecu,Americas,Latin America And The Caribbean,South America
+Egypt,eg,egy,Africa,Northern Africa,Not Present
+El Salvador,sv,slv,Americas,Latin America And The Caribbean,Central America
+Equatorial Guinea,gq,gnq,Africa,Subsaharan Africa,Middle Africa
+Eritrea,er,eri,Africa,Subsaharan Africa,Eastern Africa
+Estonia,ee,est,Europe,Northern Europe,Not Present
+Eswatini,sz,swz,Africa,Subsaharan Africa,Southern Africa
+  Ethiopia,et,eth,Africa,Subsaharan Africa,Eastern Africa
+Falkland Islands Malvinas,fk,flk,Americas,Latin America And The Caribbean,South America
+Faroe Islands,fo,fro,Europe,Northern Europe,Not Present
+Fiji,fj,fji,Oceania,Melanesia,Not Present
+Finland,fi,fin,Europe,Northern Europe,Not Present
+France,fr,fra,Europe,Western Europe,Not Present
+French Guiana  ,gf,guf,Americas,Latin America And The Caribbean,South America
+French Polynesia,pf,pyf,Oceania,Polynesia,Not Present
+Macao,mo,mac,Asia,Eastern Asia,Not Present
+French Southern Territories,tf,atf,Africa,Subsaharan Africa,Eastern Africa
+Gabon,ga,gab,Africa,Subsaharan Africa,Middle Africa
+Gambia,gm,gmb,Africa,Subsaharan Africa,Western Africa
+Georgia,ge,geo,Asia,Western Asia,Not Present
+Germany,de,deu,Europe,Western Europe,Not Present
+Ghana,gh,gha,Africa,Subsaharan Africa,Western Africa
+Gibraltar,gi,gib,Europe,Southern Europe,Not Present
+China,cn,chn,Asia,Eastern Asia,Not Present
+Greece,gr,grc,Europe,Southern Europe,Not Present
+Greenland,gl,grl,Americas,Northern America,Not Present
+Grenada,gd,grd,Americas,Latin America And The Caribbean,Caribbean
+Guadeloupe,gp,glp,Americas,Latin America And The Caribbean,Caribbean
+Guam,gu,gum,Oceania,Micronesia,Not Present
+   Guatemala,gt,gtm,Americas,Latin America And The Caribbean,Central America
+Guinea,gn,gin,Africa,Subsaharan Africa,Western Africa
+Guineabissau,gw,gnb,Africa,Subsaharan Africa,Western Africa
+Guyana,gy,guy,Americas,Latin America And The Caribbean,South America
+Haiti,ht,hti,Americas,Latin America And The Caribbean,Caribbean
+Holy See,va,vat,Europe,Southern Europe,Not Present
+Honduras,hn,hnd,Americas,Latin America And The Caribbean,Central America
+Hong Kong,hk,hkg,Asia,Eastern Asia,Not Present
+Hungary,hu,hun,Europe,Eastern Europe,Not Present
+Iceland,is,isl,Europe,Northern Europe,Not Present
+India,in,ind,Asia,Southern Asia,Not Present
+Indonesia,id,idn,Asia,Southeastern Asia,Not Present
+Iran,ir,irn,Asia,Southern Asia,Not Present
+Iraq,iq,irq,Asia,Western Asia,Not Present
+Ireland,ie,irl,Europe,Northern Europe,Not Present
+Ireland,ie,irl,Europe,Northern Europe,Not Present
+Isle Of Man,im,imn,Europe,Northern Europe,Not Present
+Israel,il,isr,Asia,Western Asia,Not Present
+Italy,it,ita,Europe,Southern Europe,Not Present
+China,cn,chn,Asia,Eastern Asia,Not Present
+Jamaica,jm,jam,Americas,Latin America And The Caribbean,Caribbean
+Japan,jp,jpn,Asia,Eastern Asia,Not Present
+Jersey,je,jey,Europe,Northern Europe,Channel Islands
+Jordan   ,jo,jor,Asia,Western Asia,Not Present
+Kazakhstan  ,kz,kaz,Asia,Central Asia,Not Present
+Kenya,ke,ken,Africa,Subsaharan Africa,Eastern Africa
+Kiribati,ki,kir,Oceania,Micronesia,Not Present
+North Korea,kp,prk,Asia,Eastern Asia,Not Present
+South Korea,kr,kor,Asia,Eastern Asia,Not Present
+Kuwait,kw,kwt,Asia,Western Asia,Not Present
+Kyrgyzstan,kg,kgz,Asia,Central Asia,Not Present
+Laos,la,lao,Asia,Southeastern Asia,Not Present
+Latvia,lv,lva,Europe,Northern Europe,Not Present
+Lebanon,lb,lbn,Asia,Western Asia,Not Present
+Lesotho,ls,lso,Africa,Subsaharan Africa,Southern Africa
+Liberia,lr,lbr,Africa,Subsaharan Africa,Western Africa
+Libya,ly,lby,Africa,Northern Africa,Not Present
+Liechtenstein,li,lie,Europe,Western Europe,Not Present
+Lithuania,lt,ltu,Europe,Northern Europe,Not Present
+Luxembourg,lu,lux,Europe,Western Europe,Not Present
+Macao,mo,mac,Asia,Eastern Asia,Not Present
+Kuwait,kw,kwt,Asia,Western Asia,Not Present
+Madagascar,mg,mdg,Africa,Subsaharan Africa,Eastern Africa
+Malawi,mw,mwi,Africa,Subsaharan Africa,Eastern Africa
+Malaysia,my,mys,Asia,Southeastern Asia,Not Present
+Maldives,mv,mdv,Asia,Southern Asia,Not Present
+Mali,ml,mli,Africa,Subsaharan Africa,Western Africa
+ Malta ,mt,mlt,Europe,Southern Europe,Not Present
+Marshall Islands,mh,mhl,Oceania,Micronesia,Not Present
+Martinique,mq,mtq,Americas,Latin America And The Caribbean,Caribbean
+Mauritania,mr,mrt,Africa,Subsaharan Africa,Western Africa
+Mauritius,mu,mus,Africa,Subsaharan Africa,Eastern Africa
+Mayotte,yt,myt,Africa,Subsaharan Africa,Eastern Africa
+Libya,ly,lby,Africa,Northern Africa,Not Present
+Mexico,mx,mex,Americas,Latin America And The Caribbean,Central America
+Micronesia Federated States Of,fm,fsm,Oceania,Micronesia,Not Present
+Moldova Republic Of,md,mda,Europe,Eastern Europe,Not Present
+Monaco,mc,mco,Europe,Western Europe,Not Present
+Mongolia,mn,mng,Asia,Eastern Asia,Not Present
+Montenegro,me,mne,Europe,Southern Europe,Not Present
+Montserrat,ms,msr,Americas,Latin America And The Caribbean,Caribbean
+Morocco,ma,mar,Africa,Northern Africa,Not Present
+Mozambique,mz,moz,Africa,Subsaharan Africa,Eastern Africa
+Myanmar,mm,mmr,Asia,Southeastern Asia,Not Present
+Namibia,na,nam,Africa,Subsaharan Africa,Southern Africa
+ Nauru ,nr,nru,Oceania,Micronesia,Not Present
+Nepal,np,npl,Asia,Southern Asia,Not Present
+Marshall Islands,mh,mhl,Oceania,Micronesia,Not Present
+Netherlands,nl,nld,Europe,Western Europe,Not Present
+New Caledonia,nc,ncl,Oceania,Melanesia,Not Present
+New Zealand,nz,nzl,Oceania,Australia And New Zealand,Not Present
+Nicaragua,ni,nic,Americas,Latin America And The Caribbean,Central America
+Niger,ne,ner,Africa,Subsaharan Africa,Western Africa
+Nigeria,ng,nga,Africa,Subsaharan Africa,Western Africa
+Niue,nu,niu,Oceania,Polynesia,Not Present
+Norfolk Island,nf,nfk,Oceania,Australia And New Zealand,Not Present
+Reunion,re,reu,Africa,Subsaharan Africa,Eastern Africa
+North Macedonia,mk,mkd,Europe,Southern Europe,Not Present
+Saudi Arabia,sa,sau,Asia,Western Asia,Not Present
+Northern Mariana Islands,mp,mnp,Oceania,Micronesia,Not Present
+Norway,no,nor,Europe,Northern Europe,Not Present
+Oman,om,omn,Asia,Western Asia,Not Present
+Pakistan,pk,pak,Asia,Southern Asia,Not Present
+Palau,pw,plw,Oceania,Micronesia,Not Present
+Panama,pa,pan,Americas,Latin America And The Caribbean,Central America
+Papua New Guinea,pg,png,Oceania,Melanesia,Not Present
+Paraguay,py,pry,Americas,Latin America And The Caribbean,South America
+Peru,pe,per,Americas,Latin America And The Caribbean,South America
+Philippines,ph,phl,Asia,Southeastern Asia,Not Present
+Pitcairn,pn,pcn,Oceania,Polynesia,Not Present
+Poland,pl,pol,Europe,Eastern Europe,Not Present
+Portugal,pt,prt,Europe,Southern Europe,Not Present
+Philippines   ,ph,phl,Asia,Southeastern Asia,Not Present
+Puerto Rico,pr,pri,Americas,Latin America And The Caribbean,Caribbean
+Qatar,qa,qat,Asia,Western Asia,Not Present
+Reunion,re,reu,Africa,Subsaharan Africa,Eastern Africa
+Romania,ro,rou,Europe,Eastern Europe,Not Present
+Russian Federation,ru,rus,Europe,Eastern Europe,Not Present
+Rwanda,rw,rwa,Africa,Subsaharan Africa,Eastern Africa
+Saint Barthelemy,bl,blm,Americas,Latin America And The Caribbean,Caribbean
+Saint Helena Ascension And Tristan Da Cunha,sh,shn,Africa,Subsaharan Africa,Western Africa
+Saint Kitts And Nevis,kn,kna,Americas,Latin America And The Caribbean,Caribbean
+Saint Lucia,lc,lca,Americas,Latin America And The Caribbean,Caribbean
+Saint Martin French Part,mf,maf,Americas,Latin America And The Caribbean,Caribbean
+Saint Pierre And Miquelon,pm,spm,Americas,Northern America,Not Present
+Saint Vincent And The Grenadines,vc,vct,Americas,Latin America And The Caribbean,Caribbean
+Samoa,ws,wsm,Oceania,Polynesia,Not Present
+San Marino,sm,smr,Europe,Southern Europe,Not Present
+Sao Tome And Principe,st,stp,Africa,Subsaharan Africa,Middle Africa
+Saudi Arabia,sa,sau,Asia,Western Asia,Not Present
+Senegal,sn,sen,Africa,Subsaharan Africa,Western Africa
+Serbia,rs,srb,Europe,Southern Europe,Not Present
+Seychelles,sc,syc,Africa,Subsaharan Africa,Eastern Africa
+Sierra Leone,sl,sle,Africa,Subsaharan Africa,Western Africa
+Zimbabwe,zw,zwe,Africa,Subsaharan Africa,Eastern Africa
+Singapore,sg,sgp,Asia,Southeastern Asia,Not Present
+Sint Maarten Dutch Part,sx,sxm,Americas,Latin America And The Caribbean,Caribbean
+Slovakia,sk,svk,Europe,Eastern Europe,Not Present
+Slovenia,si,svn,Europe,Southern Europe,Not Present
+Solomon Islands,sb,slb,Oceania,Melanesia,Not Present
+Somalia,so,som,Africa,Subsaharan Africa,Eastern Africa
+South Africa,za,zaf,Africa,Subsaharan Africa,Southern Africa
+South Georgia And The South Sandwich Islands,gs,sgs,Americas,Latin America And The Caribbean,South America
+South Sudan,ss,ssd,Africa,Subsaharan Africa,Eastern Africa
+Spain,es,esp,Europe,Southern Europe,Not Present
+Sri Lanka,lk,lka,Asia,Southern Asia,Not Present
+Sudan,sd,sdn,Africa,Northern Africa,Not Present
+Suriname,sr,sur,Americas,Latin America And The Caribbean,South America
+Sweden,se,swe,Europe,Northern Europe,Not Present
+Switzerland,ch,che,Europe,Western Europe,Not Present
+Syrian Arab Republic,sy,syr,Asia,Western Asia,Not Present
+Taiwan,tw,twn,Asia,Eastern Asia,Not Present
+Tajikistan,tj,tjk,Asia,Central Asia,Not Present
+Tanzania United Republic Of,tz,tza,Africa,Subsaharan Africa,Eastern Africa
+Thailand,th,tha,Asia,Southeastern Asia,Not Present
+Timorleste,tl,tls,Asia,Southeastern Asia,Not Present
+Togo,tg,tgo,Africa,Subsaharan Africa,Western Africa
+Tonga,to,ton,Oceania,Polynesia,Not Present
+Trinidad And Tobago,tt,tto,Americas,Latin America And The Caribbean,Caribbean
+Tunisia,tn,tun,Africa,Northern Africa,Not Present
+Turkey,tr,tur,Asia,Western Asia,Not Present
+Turkmenistan,tm,tkm,Asia,Central Asia,Not Present
+Turks And Caicos Islands,tc,tca,Americas,Latin America And The Caribbean,Caribbean
+Tuvalu,tv,tuv,Oceania,Polynesia,Not Present
+Uganda,ug,uga,Africa,Subsaharan Africa,Eastern Africa
+Serbia,rs,srb,Europe,Southern Europe,Not Present
+Ukraine,ua,ukr,Europe,Eastern Europe,Not Present
+United Arab Emirates,ae,are,Asia,Western Asia,Not Present
+United Kingdom,gb,gbr,Europe,Northern Europe,Not Present
+United States Of America,us,usa,Americas,Northern America,Not Present
+Uruguay,uy,ury,Americas,Latin America And The Caribbean,South America
+Uzbekistan,uz,uzb,Asia,Central Asia,Not Present
+Vanuatu,vu,vut,Oceania,Melanesia,Not Present
+Venezuela Bolivarian Republic Of,ve,ven,Americas,Latin America And The Caribbean,South America
+Viet Nam,vn,vnm,Asia,Southeastern Asia,Not Present
+Virgin Islands British,vg,vgb,Americas,Latin America And The Caribbean,Caribbean
+Virgin Islands Us,vi,vir,Americas,Latin America And The Caribbean,Caribbean
+Wallis And Futuna,wf,wlf,Oceania,Polynesia,Not Present
+Yemen,ye,yem,Asia,Western Asia,Not Present
+Zambia,zm,zmb,Africa,Subsaharan Africa,Eastern Africa
+Zimbabwe,zw,zwe,Africa,Subsaharan Africa,Eastern Africa

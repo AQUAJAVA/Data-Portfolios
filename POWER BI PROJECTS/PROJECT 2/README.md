@@ -49,6 +49,8 @@ I intentionally shifted focus from:
 - Charts → **Insights**
 - KPIs → **Actions**
 
+### **I used the tutorial only as a starting point and intentionally shifted the focus from visualization to business reasoning**
+
 ---
 
 ## Dataset Overview

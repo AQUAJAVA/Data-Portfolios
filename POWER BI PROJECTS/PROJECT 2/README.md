@@ -27,6 +27,10 @@ The tutorial covers:
 
 While useful, it stops at **visualization**, not **interpretation**.
 
+These were the visualizations created in the video:-
+
+<img width="1383" height="795" alt="image" src="https://github.com/user-attachments/assets/38592a0d-d7c1-493a-b431-1a2954df0662" />
+
 ---
 
 ## My Objective: From Dashboard to Decision-Making
@@ -84,6 +88,10 @@ Core measures created:
 - Segment-level averages (Credit Score, Balance)
 
 All insights are driven by **measures**, not static columns.
+
+For reference here are some extra visualizations I had made
+
+<img width="1376" height="761" alt="image" src="https://github.com/user-attachments/assets/ff129195-267a-4d22-9225-34c2b23edf90" />
 
 ---
 
@@ -181,5 +189,8 @@ Power BI is the tool — **thinking is the skill**.
 
 ## Files
 
-- Power BI (.pbix) files will be uploaded here
-- Dataset source and transformations are documented within the report
+- (.pbix) files uploaded, check in the folder
+- To make this report yourself, find the dataset from the video tutorial link provided in the beginning
+
+## Special Note
+This analysis was done completely with the intention of learning to think like an analyst, I have come to realise that practicing SQL is not the only thing, You need to develop that Business Acumen to get better at your work
